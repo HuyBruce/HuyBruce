@@ -17,11 +17,12 @@ I enjoy turning ideas into working prototypes, evaluating them with evidence, an
 - [Vietnamese History QA](https://github.com/HuyBruce/vietnamese-history-qa) - PhoBERT extractive QA with E5 retrieval, source evidence and a 100-case fixed-context evaluation; custom MiniGPT experiments are reported separately.
 - [Anthropic Codebase Agent](https://github.com/HuyBruce/anthropic-codebase-agent) - Inspectable tool-calling agent with workspace-safe file tools and local SQLite memory.
 - [Research Agent RAG](https://github.com/HuyBruce/Research-agent-rag) - Planner, web/local retrieval and report-writing workflow with cited evidence and explicit fallback modes.
-- [On-Device AI Fitness Coach](https://github.com/truongvu-25/AIFitness1) - Team project with contributions to pose counting, voice coaching, progression feedback and workout-session synchronization.
+- [On-Device AI Fitness Coach](https://github.com/HuyBruce/AIFitness1) - Fork of the team project, including contributions to pose counting, voice coaching, progression feedback and workout-session synchronization.
 - [Tiệm Udon Nắng](https://github.com/HuyBruce/tiem-udon-nang) - Restaurant simulation with cooking, inventory, local saves and offline-capable PWA builds.
 - [FruitLite Classification](https://github.com/HuyBruce/fruitlite-classification) - Lightweight CNN training and benchmark notebooks with recorded F1, model-size and CPU-latency results.
 - [FinalSpeech](https://github.com/HuyBruce/FinalSpeech) - Team speaker-identification pipeline with MFCC features, model comparison and a Gradio demo.
 - [Local-First Code Context](https://github.com/HuyBruce/local-first-code-context) - Adaptation of claude-context with local Ollama embeddings, Milvus retrieval and a Windows demo.
+
 ## Technical Interests
 
 `Python` `PyTorch` `Transformers` `RAG` `SQLite` `Ollama` `Milvus` `TypeScript` `Gradio` `Git`
